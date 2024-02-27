@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    color: white;
+
+}
+
+.green-space{
+    background-color: #128C7E;
+    height: 20vh;/*View Heigh*/
+}
+
+.text-center{
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+/*selector de etiqueta*/
+table{
+    border-collapse: collapse;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+}
+
+/*Fetch para hacer consultas desde java Script*/
+/*mdn para documentacion*/
